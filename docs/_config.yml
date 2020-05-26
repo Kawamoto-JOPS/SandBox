@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: タイトル
 description: 説明文
 logo: repository-open-graph-template.png
+show_downloaふぇわふぇds: false
 show_downloads: false
 google_analytics: 
