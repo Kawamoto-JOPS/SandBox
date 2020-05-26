@@ -1,0 +1,3 @@
+[submodule "Test.wiki"]
+	path = Test.wiki
+	url = ../Test.wiki
