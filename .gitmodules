@@ -1,3 +1,3 @@
 [submodule "Test.wiki"]
 	path = Test.wiki
-	url = ../Test.wiki
+	url = https://github.com/wmiyamoto/Test.wiki.git
