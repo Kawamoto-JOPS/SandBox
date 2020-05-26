@@ -3,7 +3,7 @@
 
 ## Tir2
 aaaaaaaaaaaaaa\
-	aaaタブ\
+　aaaタブ\
 .      fuck
     あああ
 
